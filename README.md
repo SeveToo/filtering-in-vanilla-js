@@ -1,12 +1,12 @@
 <div align="center" id="top"> 
 <h1 align="center">Div Filtering</h1>
-  <a target="_blank" href="https://sevetoo.github.io/filtering_in_vanillaJs/">
+  <a target="_blank" href="https://sevetoo.github.io/filtering-in-vanilla-js/">
   <img src="./preview.png" alt="Filtering in vanilla JavaScript" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/filtering_in_vanillaJs/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/filtering-in-vanilla-js/">Demo</a>
 
 </div>
 
@@ -50,7 +50,7 @@ The following tools were used in this project:
 ## :white_check_mark: Requirements
 
 You just need a browser.
-https://sevetoo.github.io/filtering_in_vanillaJs/
+https://sevetoo.github.io/filtering-in-vanilla-js/
 
 ## :checkered_flag: Starting
 
